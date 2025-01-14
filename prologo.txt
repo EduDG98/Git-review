@@ -2,4 +2,5 @@ Querido lector,
 no hay palabras sin pasos y pasos sin respiración.
 
 Respira
-
+1,2,3
+Respita otra vez
